@@ -6,4 +6,4 @@ if first == second == third:
 elif first == second or first == third or second == third:
     print(2)                             #2 из 3 чисел равны
 else:
-    print(0)                        #равных чисел нет
+    print(0) #равных чисел нет
